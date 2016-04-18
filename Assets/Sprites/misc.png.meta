@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 03af7b7875abb4b4b9e0c02985b71903
+timeCreated: 1460930139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: misc_0
+    21300002: misc_1
+    21300004: misc_2
+    21300006: misc_3
+    21300008: misc_4
+    21300010: grass1
+    21300012: grass2
+    21300014: misc_7
+    21300016: grass3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: misc_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 489
+        width: 77
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5799721, y: 0.06352287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.657852, y: 54.315674}
+        - {x: -44.657852, y: 27.315674}
+        - {x: -44.657852, y: 13.315674}
+        - {x: -42.657852, y: 12.315674}
+        - {x: -6.657852, y: -3.6843262}
+        - {x: 15.342148, y: -3.6843262}
+        - {x: 29.342148, y: 23.315674}
+        - {x: 29.342148, y: 48.315674}
+        - {x: -4.657852, y: 54.315674}
+    - name: misc_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 485
+        width: 62
+        height: 43
+      alignment: 9
+      pivot: {x: 0.36757267, y: 0.16585168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.210495, y: 21.868378}
+        - {x: -17.789505, y: 21.868378}
+        - {x: -17.789505, y: 10.868378}
+        - {x: -8.789505, y: -5.1316223}
+        - {x: 11.210495, y: -5.1316223}
+        - {x: 33.210495, y: 2.8683777}
+        - {x: 37.210495, y: 6.8683777}
+        - {x: 37.210495, y: 14.868378}
+    - name: misc_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 490
+        width: 67
+        height: 56
+      alignment: 9
+      pivot: {x: 0.30597106, y: 0.17011425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.499939, y: 29.473602}
+        - {x: -13.500061, y: 22.473602}
+        - {x: -13.500061, y: 5.4736023}
+        - {x: -10.500061, y: -3.5263977}
+        - {x: -2.500061, y: -6.5263977}
+        - {x: 42.49994, y: -6.5263977}
+        - {x: 42.49994, y: 29.473602}
+    - name: misc_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 496
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5543019, y: 0.17842224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.07898, y: 23.078888}
+        - {x: 9.0789795, y: 30.078888}
+        - {x: -30.92102, y: 30.078888}
+        - {x: -34.92102, y: 25.078888}
+        - {x: -34.92102, y: -4.921112}
+        - {x: 23.07898, y: -4.921112}
+        - {x: 26.07898, y: -3.921112}
+        - {x: 28.07898, y: -0.92111206}
+        - {x: 28.07898, y: 15.078888}
+    - name: misc_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 490
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.38412625, y: 0.31281093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.104797, y: 20.42102}
+        - {x: -4.8952026, y: 20.42102}
+        - {x: -21.895203, y: 17.42102}
+        - {x: -21.895203, y: 8.4210205}
+        - {x: -2.8952026, y: -5.5789795}
+        - {x: 10.104797, y: -5.5789795}
+        - {x: 34.104797, y: 2.4210205}
+        - {x: 35.104797, y: 3.4210205}
+        - {x: 35.104797, y: 9.4210205}
+        - {x: 32.104797, y: 14.4210205}
+    - name: grass1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 66
+        height: 23
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.22315647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grass2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 172
+        width: 87
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5320197, y: 0.18855153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: misc_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 217
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: grass3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 172
+        width: 84
+        height: 23
+      alignment: 9
+      pivot: {x: 0.523688, y: 0.24045928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
