@@ -15,6 +15,11 @@ public class SurfaceBehaviour : MonoBehaviour {
     collisions.RemoveAll(c => c == null || c.collider == null || c.gameObject == null || c.gameObject == collision.gameObject);
   }
 
+  void OnShapeshifted()
+  {
+    collisions.Clear();
+  }
+
   public bool GetSurfaceNormal(out Vector2 surfaceNormal)
   {
     var c = Vector2.zero;

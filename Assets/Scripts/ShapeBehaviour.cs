@@ -24,11 +24,13 @@ public class ShapeBehaviour : MonoBehaviour {
 
   public void ActivateShape(MonoBehaviour newShape)
   {
+    //SendMessage("OnShapeshifting");
     if (activeShape != null)
       activeShape.enabled = false;
     activeShape = newShape;
     if (activeShape != null)
       activeShape.enabled = true;
+    SendMessage("OnShapeshifted");
   }
   
   public void ActivateShape(int shapeIndex)
