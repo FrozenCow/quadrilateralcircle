@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{13BB0939-0E55-1EB0-CF35-0A843D911AC8}</ProjectGuid>
+    <ProjectGuid>{8D3C49ED-A78F-3D6F-6658-4AD526114516}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -58,6 +58,12 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
@@ -70,6 +76,7 @@
     <Compile Include="Assets\Scripts\Finish.cs" />
     <Compile Include="Assets\Scripts\Hotkeys.cs" />
     <Compile Include="Assets\Scripts\LineShape.cs" />
+    <Compile Include="Assets\Scripts\Log.cs" />
     <Compile Include="Assets\Scripts\PlayerControls.cs" />
     <Compile Include="Assets\Scripts\ShapeBehaviour.cs" />
     <Compile Include="Assets\Scripts\Sign.cs" />
